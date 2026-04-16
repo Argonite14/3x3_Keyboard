@@ -25,8 +25,8 @@ running QMK firmware with VIA support for live macro configuration.
 | Rows    | 5, 6, 7 |
 
 ## Firmware
-Firmware source is located in `firmware/qmk`.
+
 
 ### Build
 ```bash
-qmk compile -kb neil/macropad3x3 -km via
+
